@@ -1,4 +1,3 @@
-import { event } from 'cypress/types/jquery';
 import React from 'react';
 
 type State = {
